@@ -64,4 +64,4 @@ Apply the font to the text inside src/app/index.scss:
 ### How to use CloudUX plugin
 Appearance of the plugin:
 
-![image](/uploads/843fa65419c4d32940063b728452e4d8/image.png)
+![font-app](https://user-images.githubusercontent.com/50831927/148759646-65b90e0c-83b3-4bc6-9309-522e8662f36e.png)
